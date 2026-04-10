@@ -1,9 +1,9 @@
 [
   {
-    "ip": "192.168.2.227",
+    "ip": "89.251.254.185",
     "port": 35353,
     "country_code": "CH",
-    "last_seen": 1775751096,
-    "node_id": "node-synology"
+    "last_seen": 1775830099,
+    "node_id": "node-001"
   }
 ]
