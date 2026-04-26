@@ -5,5 +5,13 @@
     "country_code": "CH",
     "last_seen": 1777188217,
     "node_id": "node-001"
+  },
+  {
+    "ip": "93.35.5.144",
+    "port": 35353,
+    "country_code": "??",
+    "last_seen": 1777188313,
+    "temporary": true,
+    "connected_at": 1777188313
   }
 ]
